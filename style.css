@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Afacad Flux', sans-serif;
+}
+
+header{
+    background-color: #6495ED;
+    height: 8rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.faustao{
+    width: 15rem;
+    
+}
+
+.primeira{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.inicio{
+    width: 10rem;
+}
+
+div{
+    margin-top: 4rem;
+}
+
+.segunda{
+    background-color: #87CEFA;
+    height: 20rem;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.f{
+    width: 20rem;
+    height: 12rem;
+}
+
+.seg{
+    width: 30rem;
+}
+
+.c{
+    width: 30rem;
+    margin-block: 1em;
+}
+
+
+.terceira{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
